@@ -334,6 +334,7 @@ li .academy span{
 }
 
 
+
 /* น้องๆแก้ตรงนี้ */
 
 .grid-mainContainer {
@@ -355,7 +356,7 @@ li .academy span{
 
 .grid-recommend {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* จำนวนคอลัมน์ */
+    grid-template-columns: repeat(4, 1fr); /* จำนวนคอลัมน์ card */
     grid-gap: 1rem;
     border-radius: 20px;
 }
